@@ -6,9 +6,9 @@
 int main()
 {
     //Declare variables
-    int a[] = {2, 7, 11, 15};
-    //target = 9
-    int target = 9;
+    int a[] = {2, 8, 11, 15};
+    //target = 10
+    int target = 10;
     //Finding the size of the array
     int size = sizeof(a)/sizeof(a[0]);
     int i, j;
